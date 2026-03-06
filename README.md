@@ -1,16 +1,58 @@
-## Hi there 👋
+# Привет-привет! 👋✨
 
-<!--
-**LiliaDavers/LiliaDavers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я **Lilia Deaers**, и я рада видеть тебя в своём цифровом уголке!
 
-Here are some ideas to get you started:
+📍 **Где я:** Москва, Россия 🇷🇺  
+💻 **Что делаю:** Превращаю идеи в код, а кофе — в продуктивность ☕  
+🌸 **Настроение:** Творить, учиться и находить красоту в деталях
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Обо мне немного 🎀
+
+Я не просто пишу код, я стараюсь делать технологии немного уютнее. Живу в ритме большого города, но в душе всегда ищу гармонию. Когда я не за монитором, ты можешь найти меня на прогулке по московским паркам, в поисках идеального круассана или за просмотром доброго фильма.
+
+> *"Код — это поэзия, которую понимает компьютер"* 🤍
+
+---
+
+### Мой инструментарий 🧰
+
+Здесь технологии, с которыми я дружу прямо сейчас (или учусь дружить):
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+---
+
+### Чем я увлекаюсь кроме кода? 🌿
+
+- 📚 Читаю книги (люблю фантазию и психологию)
+- 🎧 Слушаю lo-fi и инди-музыку
+- 📸 Люблю ловить красивые моменты на камеру
+- 🐾 Обожая котиков (ну а кто их не любит?)
+
+---
+
+### Давай дружить! 💌
+
+Я всегда открыта для новых знакомств, интересных проектов или просто болтовни о технологиях и жизни.
+
+- 📧 **Почта:** [liliadvers@dollicons.com]
+- 📸 **Instagram/Telegram:** [твоя-ссылка]
+
+Не стесняйся написать мне, я кусаюсь только в виде багов в коде 😄
+
+---
+
+<div align="center">
+
+### Спасибо, что заглянул! ✨
+*Пусть твой день будет таким же светлым, как этот профиль* ☁️
+
+</div>
