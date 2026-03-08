@@ -46,7 +46,7 @@
 Я всегда открыта для новых знакомств, интересных проектов или просто болтовни о технологиях и жизни.
 
 - 📧 **Почта:** [liliadvers@dollicons.com]
-- 📸 **Instagram/Telegram:** [t.me/lizapavlovnaoffc]
+- 📸 **Instagram/Telegram:** [[t.me/lizapavlovnaoffc](https://t.me/VacheslavAnafevih)]
 
 Не стесняйся написать мне, я кусаюсь только в виде багов в коде 😄
 
